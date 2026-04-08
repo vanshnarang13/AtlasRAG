@@ -2,17 +2,6 @@
 
 A production-grade **Multi-Modal Retrieval-Augmented Generation (RAG)** platform that lets users build AI-powered knowledge bases from documents and websites. Upload PDFs, crawl URLs, and ask natural language questions. The system retrieves relevant context and streams accurate, cited answers in real time.
 
----
-
-## UI
-
-<!-- Add your screenshot here: replace the src with the path to your image -->
-<p align="center">
-  <img src="./assets/ui-snapshot.png" alt="AtlasRAG UI" width="100%">
-</p>
-
----
-
 ## Architecture
 
 <p align="center">
