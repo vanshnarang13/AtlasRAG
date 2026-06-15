@@ -114,6 +114,7 @@ AtlasRAG/
 
 ---
 
+## API Reference
 
 ### Projects
 | Method | Endpoint | Description |
