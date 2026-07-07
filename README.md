@@ -150,7 +150,7 @@ AtlasRAG/
 ## Data Model
 
 <p align="center">
-  <img src="https://storage.googleapis.com/second-petal-295822.appspot.com/elements/autoDiagram%3A8c6cb3bc15a07e821345415b57e177331de01ed7a987f45d56ce20a6c9b6c690.png" alt="AtlasRAG Database Schema ERD" width="100%">
+  <img src="docs/assets/database-erd.png" alt="AtlasRAG Database Schema ERD" width="100%">
 </p>
 
 <p align="center"><a href="https://app.eraser.io/workspace/3vKmgdruXhRmS9WxlsGN?diagram=-WOIPKRvViyjgT74km3o&layout=canvas">View/edit this ERD on Eraser</a></p>
